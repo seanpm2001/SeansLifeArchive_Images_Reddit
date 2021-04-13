@@ -1,0 +1,12 @@
+====================================================================================================
+
+Daily content sorting notice 12.09.2019
+
+The decision to add in reddit content from each day came in pretty late. The decision was made on December 9th 2019, and on that day, only 12 reddit folders were available for archiving
+In the future, when all the data is together, and there is a good machine, I will begin sorting, and I will get this library up to date.
+For now, continue to update with the newer data
+For content before the daily markings in phone backups, refer to file properties (use a version control program like GIT as you shouldn't waste your time doing it manaully)
+
+SeanPM - 12.09.2019
+
+====================================================================================================
