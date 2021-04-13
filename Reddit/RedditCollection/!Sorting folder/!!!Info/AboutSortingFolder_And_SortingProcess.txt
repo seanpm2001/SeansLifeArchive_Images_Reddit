@@ -1,0 +1,28 @@
+About the reddit sorting folder
+
+When I get new Reddit media in, I use this sorting folder to copy and move content around.
+The sorting processs goes like this:
+
+* Phone backup system (Imperial Google Drive system):
+
+1. Download phone backup
+2. Copy all Reddit media (videos, images) to the sorting folder
+3. Go folder through folder, cutting NSFW and SFW images, and putting the into the correct folders
+4. Copy all SFW reddit media to !Backups, SFW+NSFW(all)
+5. Cut all SFW reddit media to SFW
+6. Copy all NSFW reddit media to !Backups, SFW+NSFW(all)
+7. Cut all NSFW reddit media to NSFW
+
+* Modern  process (OneDrive, OneDrive)
+
+1. Download reddit backups
+2. Copy all reddit media (videos, images) to the sorting folder
+3. Copy all SFW reddit media to !Backups, SFW+NSFW(all)
+4. Cut all SFW reddit media to SFW
+5. Copy all NSFW reddit media to !Backups, SFW+NSFW(all)
+6. Cut all NSFW reddit media to NSFW
+
+Permanent directories used:
+
+DIR: SFW
+DIR: NSFW
