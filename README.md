@@ -1,13 +1,13 @@
 
 ***
 
-# <projectName>
+# SeansLifeArchive_Images_Reddit
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/RedditClassicLogo.png)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+## [The Reddit company](https://reddit.com)
 
 ### Top
 
@@ -17,7 +17,7 @@
 
 ## Read this article in a different language
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+[ar عربى](/.github/README_AR.md) [zh-t 中國傳統的）](/.github/README_ZH-T.md)[**en-us**](README.md) [fr français](/.github/README_FR.md) [de Deutsch](/.github/README_DE.md) [EO Esperanto](/.github/README_EO.md)  [ja 日本語](/.github/README_JA.md) [ko-south 韓國語](/.github/README_KO_SOUTH.md) [pl polski](/.github/README_PL.md) [ru русский](/.github/README_RU.md) [es en español](/.github/README_ES.md)
 
 Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
@@ -27,13 +27,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#SeansLifeArchive_Images_Reddit)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#SeansLifeArchive_Images_Reddit)
 
 [02.0 - About](#About)
 
@@ -71,20 +71,20 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
+# SeansLifeArchive_Images_Reddit
+The module for my life story project that contains my Reddit images and other media. 
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This project hosts my Reddit related images and downloads. Not all data is currently available due to size, copyright, and age rating issues.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_Reddit/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -130,7 +130,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 107 commits (As of Wednesday, April 14th 2021 at 4:21 pm)
 
 > * 2. No other contributers.
 
@@ -200,9 +200,11 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file A (Python)](PROJECT_LANG_1.py)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Project language file B (JavaScript)](PROJECT_LANG_2.js)
+
+[Join the discussion on GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_Reddit/discussions)
 
 No other resources at the moment.
 
@@ -220,9 +222,9 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 8:01 pm)`
+File version: `1 (Wednesday, April 14th 2021 at 4:21 pm)`
 
-Line count: `0,296`
+Line count: `0,306`
 
 ***
 
@@ -268,11 +270,19 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (Wednesday, April 14th 2021 at 4:24 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated attributions
+
+> * Added new data and formatted template data
+
+> * Updated the title section, referenced the classic Reddit icon
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
